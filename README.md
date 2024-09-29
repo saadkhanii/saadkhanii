@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saadkhanii
+- 👋 Hi, I’m saadkhanii
 - 👀 I’m interested in App development 
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on App development 
